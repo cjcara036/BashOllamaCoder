@@ -50,9 +50,9 @@ The Ollama Project Assistant is a self-contained bash script that provides AI-po
 1. **Download the script**:
    ```bash
    # Download to your project directory
-   wget https://raw.githubusercontent.com/your-repo/ollama-assistant.sh
+   wget https://raw.githubusercontent.com/cjcara036/ollama-assistant.sh
    # or using curl
-   curl -O https://raw.githubusercontent.com/your-repo/ollama-assistant.sh
+   curl -O https://raw.githubusercontent.com/cjcara036/ollama-assistant.sh
    ```
 
 2. **Make it executable**:
@@ -659,3 +659,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy Coding! 🚀**
 
 Made with ❤️ by the Ollama Assistant Team
+
