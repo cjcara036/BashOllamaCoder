@@ -18,7 +18,7 @@ sudo dnf install curl          # Fedora
 ### Installation
 ```bash
 # Download to your project directory
-curl -O https://raw.githubusercontent.com/your-repo/ollama-assistant.sh
+curl -O https://raw.githubusercontent.com/cjcara036/ollama-assistant.sh
 
 # Make executable
 chmod +x ollama-assistant.sh
@@ -113,3 +113,4 @@ After installation, test with:
 - Use a proper terminal (Git Bash, WSL, not cmd.exe)
 - Ensure terminal supports ANSI colors
 - Minimum terminal size: 80x24 characters
+
